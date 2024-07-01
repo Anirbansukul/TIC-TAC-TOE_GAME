@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+#Main{
+    justify-content: center;
+}
+#Main-1{
+    height:400px;
+    width:400px;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left:39%;
+}
+#box{
+    height:130px;
+    width:120px;
+    padding:2px;
+    margin:1px;
+    background-color:yellow;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    border:none;
+}
+#reset{
+    margin: 20px;
+    height: 40px;
+    width: 80px;
+    background-color:black;
+    color:white;
+}
